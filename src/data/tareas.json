@@ -1,0 +1,5 @@
+[
+  { "tarea": "Lavar el coche", "completada": false },
+  { "tarea": "Hacer el diseño", "completada": false },
+  { "tarea": "Limpiar la cocina", "completada": true }
+]
